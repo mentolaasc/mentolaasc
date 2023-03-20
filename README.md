@@ -9,7 +9,7 @@
 
 Обучиться языку Rust, и писать системное ПО.
 
->He?
+> only forward && only forward!
 
 <!--
 **mentolaasc/mentolaasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
