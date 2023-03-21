@@ -5,7 +5,7 @@ ____
 Занимаюсь разработкой различного рода ПО, от обычных десктоп программ используя платформу .NET, до скриптов и ботов на языке Python.
 Так же начинаю заниматься версткой сайтов, используя React.js.
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Что в будущем я хочу уметь? 🤔
 ____
